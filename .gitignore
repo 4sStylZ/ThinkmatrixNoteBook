@@ -1,0 +1,11 @@
+# Make generated files.
+tmk_keyboard/keyboard/.dep/
+tmk_keyboard/keyboard/.dep/*
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
+*.sym
+tmk_keyboard/keyboard/obj_firmware/
+tmk_keyboard/keyboard/obj_firmware/*
