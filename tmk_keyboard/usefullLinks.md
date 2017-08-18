@@ -24,11 +24,24 @@ French plate provider : https://pro.john-steel.com/fr/
 
 # Keys
 
+
+## Keyboard Switchs
+
+### Kailha (Builds some Low-profile)
+* HAVIT HV-KB390L https://www.jayceooi.com/havit-hv-kb390l-review/
+* Official website : http://www.kailh.com/en/Products/Mechanical_keyboard_switch/165.html
+* Geekhack disassembly pictures : https://geekhack.org/index.php?topic=82008.0
+
+### Cherry ML
+
 ## Keycaps
 
-### Keycaps factory
+### Keycaps factory / Seller
 
 * Pimp my keyboard https://pimpmykeyboard.com/keysets/
+* LDCLC Ducky
+  * White : http://www.ldlc.com/fiche/PB00203674.html
+  * Black : http://www.ldlc.com/fiche/PB00231824.html
 
 ### Keycaps profile
 
@@ -39,7 +52,14 @@ French plate provider : https://pro.john-steel.com/fr/
 
 * Soft-Landing Pads : http://elitekeyboards.com/products.php?sub=access,slpads&pid=sl120_cf
 * Solid copper rings : https://geekhack.org/index.php?topic=42450.0
-* Cherry O-ring
+* Cherry O-ring : 
+  * http://www.wasdkeyboards.com/index.php/products/keyboard-accessories/cherry-mx-rubber-o-ring-switch-dampeners-125pcs.html
+  * Black : http://www.ldlc.com/fiche/PB00173620.html
+  * Transclucid : http://www.ldlc.com/fiche/PB00173617.html
+
+### Switch blocker
+
+* https://pimpmykeyboard.com/switch-blocker-pack-of-10/
 
 ### DIY and painting
 
@@ -47,13 +67,4 @@ French plate provider : https://pro.john-steel.com/fr/
 * Complete dyieing guide : https://geekhack.org/index.php?topic=35444.msg742090#msg742090
 * Simple DIY examples : https://geekhack.org/index.php?topic=40222.0
 * Red-Dye on Amazon : https://www.amazon.com/Rit-Dye-Liquid-8-Ounce-Scarlet/dp/B00AQ72AVO
-
-## Keyboard Switchs
-
-### Kailha (Builds some Low-profile)
-* HAVIT HV-KB390L https://www.jayceooi.com/havit-hv-kb390l-review/
-* Official website : http://www.kailh.com/en/Products/Mechanical_keyboard_switch/165.html
-* Geekhack disassembly pictures : https://geekhack.org/index.php?topic=82008.0
-
-### Cherry ML
 
