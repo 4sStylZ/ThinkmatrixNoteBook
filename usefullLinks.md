@@ -39,7 +39,7 @@ French plate provider : https://pro.john-steel.com/fr/
 ### Keycaps factory / Seller
 
 * Pimp my keyboard https://pimpmykeyboard.com/keysets/
-* LDCLC Ducky
+* LDLC Ducky
   * White : http://www.ldlc.com/fiche/PB00203674.html
   * Black : http://www.ldlc.com/fiche/PB00231824.html
 
