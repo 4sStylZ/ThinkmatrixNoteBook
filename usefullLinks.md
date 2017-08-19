@@ -68,3 +68,7 @@ French plate provider : https://pro.john-steel.com/fr/
 * Simple DIY examples : https://geekhack.org/index.php?topic=40222.0
 * Red-Dye on Amazon : https://www.amazon.com/Rit-Dye-Liquid-8-Ounce-Scarlet/dp/B00AQ72AVO
 
+### Led color changers
+
+http://v0idtek.storenvy.com/products/12122688-led-color-changers-92-pack-for-cherry-mx-keyboard
+
