@@ -50,6 +50,7 @@ French plate provider : https://pro.john-steel.com/fr/
 
 ### Reducing travel and noise
 
+* Sound dampen guide : http://blog.wooting.nl/sound-dampen-your-mechanical-keyboard-noises/
 * Soft-Landing Pads : http://elitekeyboards.com/products.php?sub=access,slpads&pid=sl120_cf
 * Solid copper rings : https://geekhack.org/index.php?topic=42450.0
 * Cherry O-ring : 
