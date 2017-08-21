@@ -15,6 +15,10 @@
 
 * USB Hub : https://alexnld.com/product/cjmcu-204-usb-2-0-hub-4-port-usb-high-speed-controller-module-for-arduino/
 
+## Trackpad
+
+* Instructables recycling guide : http://www.instructables.com/id/Laptoprecycling-Touchpad/
+
 # Firmware
 
 * Reddit Guide : https://www.reddit.com/r/MechanicalKeyboards/wiki/firmware
