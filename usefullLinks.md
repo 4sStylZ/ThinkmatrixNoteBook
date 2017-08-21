@@ -7,9 +7,13 @@
 
 ## Plate
 
-HandWiring guide : 
-GUI Tools for plate vectorial image creation : http://builder.swillkb.com/
-French plate provider : https://pro.john-steel.com/fr/
+* HandWiring guide : 
+* GUI Tools for plate vectorial image creation : http://builder.swillkb.com/
+* French plate provider : https://pro.john-steel.com/fr/
+
+## Components
+
+* USB Hub : https://alexnld.com/product/cjmcu-204-usb-2-0-hub-4-port-usb-high-speed-controller-module-for-arduino/
 
 # Firmware
 
@@ -23,7 +27,6 @@ French plate provider : https://pro.john-steel.com/fr/
 * QMQ Firmware builder : http://qmk.sized.io / http://kbfirmware.com
 
 # Keys
-
 
 ## Keyboard Switchs
 
@@ -71,5 +74,4 @@ French plate provider : https://pro.john-steel.com/fr/
 
 ### Led color changers
 
-http://v0idtek.storenvy.com/products/12122688-led-color-changers-92-pack-for-cherry-mx-keyboard
-
+* http://v0idtek.storenvy.com/products/12122688-led-color-changers-92-pack-for-cherry-mx-keyboard
