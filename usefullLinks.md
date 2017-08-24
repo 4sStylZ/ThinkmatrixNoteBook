@@ -7,7 +7,7 @@
 
 ## Plate
 
-* HandWiring guide : 
+* HandWiring guide : https://imgur.com/a/qcgdF
 * GUI Tools for plate vectorial image creation : http://builder.swillkb.com/
 * French plate provider : https://pro.john-steel.com/fr/
 
