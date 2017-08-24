@@ -8,22 +8,26 @@ TMK_DIR = ../tmk_core
 TARGET_DIR = .
 
 # project specific files
-SRC =	keymap_common.c 	matrix.c 	led.c
+SRC =   keymap_common.c     matrix.c    led.c
 
 SRC := keymap.c $(SRC)
 
 CONFIG_H = config.h
 
-
 # MCU name
-MCU = atmega32u4
+#MCU = atmega32u4
+MCU_FAMILY = KINETIS
+MCU_SERIES = K20x
+MCU_LDSCRIPT = MK20DX256
+MCU_STARTUP = k20x7
+BOARD = PJRC_TEENSY_3_1
+ARMV = 7
 
 # Processor frequency.
-F_CPU = 16000000
-
+# F_CPU = 16000000
 
 # Target architecture (see library "Board Types" documentation).
-ARCH = AVR8
+ARCH = ARM
 
 # Input clock frequency.
 F_USB = $(F_CPU)
@@ -31,19 +35,16 @@ F_USB = $(F_CPU)
 # Interrupt driven control endpoint task(+60)
 OPT_DEFS += -DINTERRUPT_CONTROL_ENDPOINT
 
-
 # Boot Section Size in *bytes*
 OPT_DEFS += -DBOOTLOADER_SIZE=4096
 
-
 # Build Options
-BOOTMAGIC_ENABLE = yes	# Virtual DIP switch configuration(+1000)
-MOUSEKEY_ENABLE = yes	# Mouse keys(+4700)
-EXTRAKEY_ENABLE = yes	# Audio control and System control(+450)
-CONSOLE_ENABLE = yes	# Console for debug(+400)
+BOOTMAGIC_ENABLE = yes  # Virtual DIP switch configuration(+1000)
+MOUSEKEY_ENABLE = yes   # Mouse keys(+4700)
+EXTRAKEY_ENABLE = yes   # Audio control and System control(+450)
+CONSOLE_ENABLE = yes    # Console for debug(+400)
 COMMAND_ENABLE = yes    # Commands for debug and configuration
-NKRO_ENABLE = yes	    # USB Nkey Rollover - not yet supported in LUFA
-
+NKRO_ENABLE = yes       # USB Nkey Rollover - not yet supported in LUFA
 
 # Search Path
 VPATH += $(TARGET_DIR)
