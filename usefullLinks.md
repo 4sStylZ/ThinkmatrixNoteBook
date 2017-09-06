@@ -36,16 +36,33 @@
 ## Keyboard Switchs
 
 ### Kailha (Builds some Low-profile)
+
+**Carefull** 
+
+* No standard Cherry MX mount type.
+* No keycaps.
+* No plate mount possibility.
+
+---
+
 * HAVIT HV-KB390L : https://www.jayceooi.com/havit-hv-kb390l-review/
 * Official website : http://www.kailh.com/en/Products/Mechanical_keyboard_switch/165.html
 * Geekhack disassembly pictures : https://geekhack.org/index.php?topic=82008.0
+* Novelkeys (Kailha seller) : https://www.novelkeys.xyz/product-category/switches/
 
 ### Matias (Alps mount)
 
-https://matias.store/collections/keycaps-and-switches-1/products/matias-quiet-click-switch-box-of-200
-https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=52
+**Carefull**
+
+* No standard Cherry MX mount type but same size with some holes.
+* Keycaps hard to find.
+
+* Matias : https://matias.store/collections/keycaps-and-switches-1/products/matias-quiet-click-switch-box-of-200
+* Mechanical keyboards : https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=52
 
 ### Cherry ML
+
+Bad choice : Discontinued.
 
 ## Keycaps
 
@@ -55,7 +72,7 @@ https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=52
 * LDLC Ducky
   * White : http://www.ldlc.com/fiche/PB00203674.html
   * Black : http://www.ldlc.com/fiche/PB00231824.html
-* Novelkeys (Kailha seller) : https://www.novelkeys.xyz/product-category/switches/
+* Elite keyboards : https://elitekeyboards.com/products.php?sub=access,cherrymxkeys
 
 ### Keycaps profile
 
@@ -74,7 +91,7 @@ https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=52
 
 ### Switch blocker
 
-* https://pimpmykeyboard.com/switch-blocker-pack-of-10/
+* Pimp my keyboard : https://pimpmykeyboard.com/switch-blocker-pack-of-10/
 
 ### DIY and painting
 
