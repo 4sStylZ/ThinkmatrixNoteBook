@@ -55,6 +55,7 @@ https://mechanicalkeyboards.com/shop/index.php?l=product_list&c=52
 * LDLC Ducky
   * White : http://www.ldlc.com/fiche/PB00203674.html
   * Black : http://www.ldlc.com/fiche/PB00231824.html
+* Novelkeys (Kailha seller) : https://www.novelkeys.xyz/product-category/switches/
 
 ### Keycaps profile
 
