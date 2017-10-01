@@ -19,6 +19,10 @@
 
 * Instructables recycling guide : http://www.instructables.com/id/Laptoprecycling-Touchpad/
 
+## Trackpoint
+
+* Geekhack Ergodox with trackpoint : https://geekhack.org/index.php?topic=55960.0
+
 # Firmware
 
 * Reddit Guide : https://www.reddit.com/r/MechanicalKeyboards/wiki/firmware
