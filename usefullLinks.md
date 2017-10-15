@@ -22,6 +22,8 @@
 ## Trackpoint
 
 * Geekhack Ergodox with trackpoint : https://geekhack.org/index.php?topic=55960.0
+* Pinout : https://deskthority.net/resources/t40/28052
+* Documentation about pinout alternative : https://deskthority.net/workshop-f7/connecting-thinkpad-trackpoint-mouse-buttons-to-teensy-2-t9772.html
 
 # Firmware
 
