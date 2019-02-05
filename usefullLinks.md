@@ -60,7 +60,7 @@
 
 **Carefull**
 
-* No standard Cherry MX mount type but same size with some holes.
+* Not the same standard as Cherry MX mount type.
 * Keycaps hard to find.
 
 * Matias : https://matias.store/collections/keycaps-and-switches-1/products/matias-quiet-click-switch-box-of-200
@@ -78,11 +78,12 @@ https://hengkenasen.en.alibaba.com/productgrouplist-803849051/Metal_Pushbutton.h
 
 ### Keycaps factory / Seller
 
-* Pimp my keyboard https://pimpmykeyboard.com/keysets/
+* Pimp my keyboard : https://pimpmykeyboard.com/keysets/
 * LDLC Ducky
   * White : http://www.ldlc.com/fiche/PB00203674.html
   * Black : http://www.ldlc.com/fiche/PB00231824.html
 * Elite keyboards : https://elitekeyboards.com/products.php?sub=access,cherrymxkeys
+* FlashQuark : https://flashquark.com/product/acrylic-chiclet-style-keycaps/
 
 ### Keycaps profile
 
