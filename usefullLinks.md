@@ -100,6 +100,10 @@ https://hengkenasen.en.alibaba.com/productgrouplist-803849051/Metal_Pushbutton.h
   * Black : http://www.ldlc.com/fiche/PB00173620.html
   * Transclucid : http://www.ldlc.com/fiche/PB00173617.html
 
+### Lubrification
+
+* Lube guide : https://imgur.com/a/lhLqo
+
 ### Switch blocker
 
 * Pimp my keyboard : https://pimpmykeyboard.com/switch-blocker-pack-of-10/
